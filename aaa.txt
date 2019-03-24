@@ -1,9 +1,6 @@
-<<<<<<< HEAD
 1aaaaaaaaaaaaaa bbbb
-=======
 aaaaaaaaaaaaaa bbbb
 dve update 222 333
->>>>>>> dev
 ddcccccc
 aaaaaaaaaaaaaa bbbb  cc  bb
 bbbbbbbbb 222
@@ -13,3 +10,5 @@ ddddffe 1111 ee
 eeeggggg oo1ooppp
 2222ttteee2
 99999
+2222ttteee2 333
+---------------------
